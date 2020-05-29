@@ -1,0 +1,13 @@
+Topics on 29,may 2020 :
+
+	Count app
+		
+	Intent : Intent is used to switch between the activities.
+	
+	Implicit Intent : If you switch between the activities of 2 different apps
+		
+	Explicit Intent : If you switch between the activities of single app
+	
+	Syntax : Intent object = new Intent(this,Nextactivity)
+		object.putExtra("Key","value") // if u want to carry some data 
+		startActivity(object)
