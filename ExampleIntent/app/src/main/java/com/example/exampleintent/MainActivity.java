@@ -8,6 +8,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
+import java.util.Calendar;
+
 public class MainActivity extends AppCompatActivity {
 
     EditText name,link;//Declared the views
@@ -32,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         Uri uri = Uri.parse("https://"+l);//To indicate that the given data is of link type
         Intent i = new Intent(Intent.ACTION_VIEW,uri);//To open the data in a webview(browser)
         startActivity(i);//To start the activity
-
+        Calendar c = Calendar.getInstance();
 
     }
 }
