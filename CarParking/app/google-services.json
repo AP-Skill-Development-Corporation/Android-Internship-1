@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "186271589398",
+    "firebase_url": "https://smartparking-ddad8.firebaseio.com",
+    "project_id": "smartparking-ddad8",
+    "storage_bucket": "smartparking-ddad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186271589398:android:76c3e241f4f594696fc137",
+        "android_client_info": {
+          "package_name": "com.example.cherry.carparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186271589398-3oh2eltaf24cgi7g89g6iahc5avt6uf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cherry.carparking",
+            "certificate_hash": "aaef8c19a8b88e4f6264f6e17eb6e76aa779c7c4"
+          }
+        },
+        {
+          "client_id": "186271589398-qrjlo4tpe3eoj26imhroj6jglf0isa4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNpydL5BeKhBjNktIyOvx3KpWtpuuCD7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186271589398-qrjlo4tpe3eoj26imhroj6jglf0isa4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
